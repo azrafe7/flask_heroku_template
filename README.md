@@ -130,3 +130,7 @@
 
 ## CREDITS
 http://www.gtlambert.com/blog/deploy-flask-app-to-heroku (George Lambert)
+
+
+### LICENSE (MIT)
+See [LICENSE.md](LICENSE.md).
